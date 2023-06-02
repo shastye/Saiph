@@ -1,5 +1,37 @@
-﻿  SaiphApp.cpp
+﻿  Main.cpp
+  BaseCommand.cpp
+  EntryState.cpp
+  ExitState.cpp
+  HeadingCommand.cpp
+  MenuState.cpp
+  BaseObject.cpp
+  Boss.cpp
+  Bullet.cpp
+  Deflector.cpp
+  Effect.cpp
+  Enemy.cpp
+  HUD.cpp
+  Menu.cpp
+  MovingObject.cpp
+  PowerUp.cpp
+  ProgressBar.cpp
+  Ship.cpp
+  SpawnPoint.cpp
+  LevelState.cpp
+  StickyBomb.cpp
+  Generating Code...
+  Compiling...
+  Subject.cpp
+  MotherShip.cpp
+  RandomFloat.cpp
+  SaiphApp.cpp
+  ShopState.cpp
+  VelocityCommand.cpp
+  Layer.cpp
+  ViewManager.cpp
+  Generating Code...
+  irrXML.cpp
   Library_RELEASE_Win32.lib(OpenGLRenderer.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
   Generating code
   Finished generating code
-  Saiph.vcxproj -> C:\Users\shast\OneDrive - Full Sail University\GDD-258\Saiph\Release\Saiph.exe
+  Saiph.vcxproj -> C:\Users\Sierra\Desktop\Saiph\Release\Saiph.exe

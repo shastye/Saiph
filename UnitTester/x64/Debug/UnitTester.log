@@ -1,0 +1,28 @@
+﻿  AssertException.cpp
+  Checks.cpp
+  CurrentTest.cpp
+  DeferredTestReporter.cpp
+  DeferredTestResult.cpp
+  MemoryOutStream.cpp
+  ReportAssert.cpp
+  Test.cpp
+  TestDetails.cpp
+  TestList.cpp
+  TestReporter.cpp
+  TestReporterStdout.cpp
+  TestResults.cpp
+  TestRunner.cpp
+  TimeConstraint.cpp
+  TimeHelpers.cpp
+  XmlTestReporter.cpp
+  Main.cpp
+  TestBaseObject.cpp
+  TestEffect.cpp
+  Generating Code...
+  Compiling...
+  TestEnemy.cpp
+  TestMovingObject.cpp
+  TestPowerUp.cpp
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1104.
+LINK : fatal error LNK1104: cannot open file '..\Library_Debug_x64.lib'

@@ -2,7 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\shast\OneDrive - Full Sail University\GDD-258\Saiph\Release\Saiph.exe</FullPath>
+      <FullPath>C:\Users\Sierra\Desktop\Saiph\Release\FStrategy.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Sierra\Desktop\Saiph\Release\GStrategy.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Sierra\Desktop\Saiph\Release\Saiph.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

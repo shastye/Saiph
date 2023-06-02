@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  GStrategy.cpp
+     Creating library C:\Users\Sierra\Desktop\Saiph\Release\GStrategy.lib and object C:\Users\Sierra\Desktop\Saiph\Release\GStrategy.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GStrategy.vcxproj -> C:\Users\Sierra\Desktop\Saiph\Release\GStrategy.dll

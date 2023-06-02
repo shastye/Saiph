@@ -31,4 +31,5 @@
   ViewManager.cpp
   Generating Code...
   irrXML.cpp
-  Saiph.vcxproj -> C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\Saiph\Debug\Saiph.exe
+  LINK : C:\Users\Sierra\Desktop\Saiph\Debug\Saiph.exe not found or not built by the last incremental link; performing full link
+  Saiph.vcxproj -> C:\Users\Sierra\Desktop\Saiph\Debug\Saiph.exe
