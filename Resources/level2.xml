@@ -1,0 +1,19 @@
+<Level>
+	<Spawn x="100" y="500" wait="0" interval="0.5" enemy="0" amount="25" />
+	<Spawn x="500" y="100" wait="10" interval="0.5" enemy="0" amount="25" />	
+	<Spawn x="200" y="200" wait="20" interval="0.5" enemy="0" amount="25" />	
+	<Spawn x="400" y="400" wait="30" interval="0.5" enemy="0" amount="25" />	
+	<Spawn x="100" y="100" wait="40" interval="3.0" enemy="2" amount="3" />	
+	<Spawn x="500" y="500" wait="140" interval="2.0" enemy="2" amount="5" />	
+	<Spawn x="200" y="400" wait="240" interval="1.0" enemy="2" amount="7" />	
+	<Spawn x="100" y="100" wait="340" interval="0.1" enemy="4" amount="25" />
+	<Spawn x="500" y="100" wait="350" interval="0.1" enemy="4" amount="25" />
+	<Spawn x="250" y="500" wait="360" interval="0.1" enemy="4" amount="25" />
+	<Boss />
+		<Waypoint random="true" />
+		<Waypoint random="true" />
+		<Waypoint random="true" />
+		<Waypoint random="true" />
+		<Waypoint random="false" x="240" y="260" />
+	
+</Level>
