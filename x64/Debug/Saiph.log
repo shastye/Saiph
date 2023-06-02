@@ -1,0 +1,61 @@
+﻿  Main.cpp
+  BaseCommand.cpp
+  EntryState.cpp
+  ExitState.cpp
+  HeadingCommand.cpp
+  MenuState.cpp
+  BaseObject.cpp
+  Boss.cpp
+  Bullet.cpp
+  Deflector.cpp
+  Effect.cpp
+  Enemy.cpp
+  HUD.cpp
+  Menu.cpp
+  MovingObject.cpp
+  PowerUp.cpp
+  ProgressBar.cpp
+  Ship.cpp
+  SpawnPoint.cpp
+  LevelState.cpp
+C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\Saiph\LevelState.cpp(892,30): warning C4477: 'sprintf' : format string '%.4d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\Saiph\LevelState.cpp(892,30): message : consider using '%zd' in the format string
+C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\Saiph\LevelState.cpp(892,30): warning C4477: 'sprintf' : format string '%.3d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\Saiph\LevelState.cpp(892,30): message : consider using '%zd' in the format string
+C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\Saiph\LevelState.cpp(894,30): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\Saiph\LevelState.cpp(894,30): message : consider using '%zd' in the format string
+  StickyBomb.cpp
+  Generating Code...
+  Compiling...
+  Subject.cpp
+  MotherShip.cpp
+C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\Saiph\MotherShip.cpp(67,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\Saiph\MotherShip.cpp(67,34): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  RandomFloat.cpp
+  SaiphApp.cpp
+  ShopState.cpp
+  VelocityCommand.cpp
+  Layer.cpp
+  ViewManager.cpp
+  Generating Code...
+  irrXML.cpp
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl OpenGLRenderer::Init(void)" (?Init@OpenGLRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl OpenGLRenderer::BeginScene(void)" (?BeginScene@OpenGLRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl OpenGLRenderer::BeginObjects(void)" (?BeginObjects@OpenGLRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl OpenGLRenderer::RenderObject(class BaseObject const *)const " (?RenderObject@OpenGLRenderer@@UEBAXPEBVBaseObject@@@Z)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl OpenGLRenderer::EndObjects(void)" (?EndObjects@OpenGLRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl OpenGLRenderer::RenderText(float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct Color4f const &,bool)const " (?RenderText@OpenGLRenderer@@UEBAXMMAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBUColor4f@@_N@Z)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl OpenGLRenderer::EndScene(void)" (?EndScene@OpenGLRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl OpenGLRenderer::Shutdown(void)" (?Shutdown@OpenGLRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl OpenGLRenderer::Restart(void)" (?Restart@OpenGLRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl DirectXRenderer::Init(void)" (?Init@DirectXRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl DirectXRenderer::BeginScene(void)" (?BeginScene@DirectXRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl DirectXRenderer::BeginObjects(void)" (?BeginObjects@DirectXRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl DirectXRenderer::RenderObject(class BaseObject const *)const " (?RenderObject@DirectXRenderer@@UEBAXPEBVBaseObject@@@Z)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl DirectXRenderer::EndObjects(void)" (?EndObjects@DirectXRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl DirectXRenderer::RenderText(float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct Color4f const &,bool)const " (?RenderText@DirectXRenderer@@UEBAXMMAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBUColor4f@@_N@Z)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl DirectXRenderer::EndScene(void)" (?EndScene@DirectXRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl DirectXRenderer::Shutdown(void)" (?Shutdown@DirectXRenderer@@UEAAXXZ)
+SaiphApp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl DirectXRenderer::Restart(void)" (?Restart@DirectXRenderer@@UEAAXXZ)
+Library_DEBUG_Win32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Sierra\OneDrive - Full Sail University\Previous Classes\GDD-258\x64\Debug\Saiph.exe : fatal error LNK1120: 18 unresolved externals
