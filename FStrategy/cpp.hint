@@ -1,0 +1,2 @@
+#define FSTRATEGY_API __declspec(dllexport)
+#define FSTRATEGY_API __declspec(dllimport)
