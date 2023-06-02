@@ -1,0 +1,11 @@
+#define _BASEOBJECT_OBJ_
+#define _BULLET_OBJ_
+#define _EFFECT_OBJ_
+#define _ENEMY_OBJ_
+#define _MOVINGOBJECT_OBJ_
+#define _POWERUP_OBJ_
+#define _SHIP_OBJ_
+#define _SPAWNPOINT_OBJ_
+#define _LEVELSTATE_OBJ_
+#define _SHOPSTATE_OBJ_
+#define _EXITSTATE_OBJ_
