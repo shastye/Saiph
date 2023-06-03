@@ -1,0 +1,30 @@
+﻿  AssertException.cpp
+  Checks.cpp
+  CurrentTest.cpp
+  DeferredTestReporter.cpp
+  DeferredTestResult.cpp
+  MemoryOutStream.cpp
+  ReportAssert.cpp
+  Test.cpp
+  TestDetails.cpp
+  TestList.cpp
+  TestReporter.cpp
+  TestReporterStdout.cpp
+  TestResults.cpp
+  TestRunner.cpp
+  TimeConstraint.cpp
+  TimeHelpers.cpp
+  XmlTestReporter.cpp
+  Main.cpp
+  TestBaseObject.cpp
+  TestEffect.cpp
+  Generating Code...
+  Compiling...
+  TestEnemy.cpp
+  TestMovingObject.cpp
+  TestPowerUp.cpp
+  Generating Code...
+  Library_RELEASE_Win32.lib(OpenGLRenderer.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+  Generating code
+  Finished generating code
+  UnitTester.vcxproj -> C:\Users\Sierra\Desktop\Saiph\Release\UnitTester.exe

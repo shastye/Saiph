@@ -20,6 +20,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GStrategy", "GStrategy\GStr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FStrategy", "FStrategy\FStrategy.vcxproj", "{CBA60B9D-5671-49A6-A184-2AECBF7D9617}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SaiphSetup", "..\SaiphSetup\SaiphSetup.vdproj", "{46D445CD-FD23-431D-B053-F9FEDA53E748}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -42,6 +44,9 @@ Global
 		{CBA60B9D-5671-49A6-A184-2AECBF7D9617}.Debug|Win32.Build.0 = Debug|Win32
 		{CBA60B9D-5671-49A6-A184-2AECBF7D9617}.Release|Win32.ActiveCfg = Release|Win32
 		{CBA60B9D-5671-49A6-A184-2AECBF7D9617}.Release|Win32.Build.0 = Release|Win32
+		{46D445CD-FD23-431D-B053-F9FEDA53E748}.Debug|Win32.ActiveCfg = Debug
+		{46D445CD-FD23-431D-B053-F9FEDA53E748}.Release|Win32.ActiveCfg = Release
+		{46D445CD-FD23-431D-B053-F9FEDA53E748}.Release|Win32.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

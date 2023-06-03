@@ -3,6 +3,7 @@
   EntryState.cpp
   ExitState.cpp
   HeadingCommand.cpp
+  LevelState.cpp
   MenuState.cpp
   BaseObject.cpp
   Boss.cpp
@@ -17,7 +18,6 @@
   ProgressBar.cpp
   Ship.cpp
   SpawnPoint.cpp
-  LevelState.cpp
   StickyBomb.cpp
   Generating Code...
   Compiling...
